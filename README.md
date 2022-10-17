@@ -1,4 +1,4 @@
-## UID-GREEN-PRO PAID
+## MAX-VERSION PAID
 ## COMMAND
 `pkg install python`
 
